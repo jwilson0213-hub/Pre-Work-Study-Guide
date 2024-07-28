@@ -2,7 +2,7 @@
 
 ## Description
 
-This Pre-work Study Guide was created to keep track of all of th important key points from three different Pre-Work Module sections. HTML, CSS, JavaScript and Git were all covered in the Modules. This helps in having important items from each section in one place for a quick reference. Working through each section and getting familiar with the sections has helped in building a Web Developer mindset.
+This Pre-work Study Guide was created to keep track of all of the important key points from three different Pre-Work Module sections. HTML, CSS, JavaScript and Git were all covered in the Modules. This helps in having important items from each section in one place for a quick reference. Working through each section and getting familiar with the sections has helped in building a Web Developer mindset.
 
 ## Installation
 
